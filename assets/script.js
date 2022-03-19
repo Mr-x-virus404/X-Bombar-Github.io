@@ -12,7 +12,7 @@ $(document).ready(() => {
             var c = 0;
 
             const APIS = [
-{
+               {
 
                     method: "POST",
 
